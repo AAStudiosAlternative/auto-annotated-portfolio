@@ -91,7 +91,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/'
+            url: 'https://discord.gg/yaBpt4PFbT'
         styles:
           self:
             textAlign: left

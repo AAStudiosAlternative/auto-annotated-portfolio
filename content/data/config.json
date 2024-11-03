@@ -37,16 +37,6 @@
                 "altText": "Netlify templates"
             }
         ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
-            "emailAltText": "My email",
-            "address": "",
-            "addressAltText": ""
-        },
         "copyrightText": "[AA Studios](aastudios.online)\n",
         "styles": {
             "self": {

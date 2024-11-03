@@ -45,7 +45,7 @@
             "email": "thisismyemail.@myemail.me",
             "emailAltText": "My email",
             "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
+            "addressAltText": ""
         },
         "copyrightText": "[AA Studios](aastudios.online)\n",
         "styles": {

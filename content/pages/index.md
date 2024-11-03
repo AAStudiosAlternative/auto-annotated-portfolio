@@ -15,9 +15,8 @@ sections:
     backgroundSize: full
     title: XAM.ICU
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      This is an alternative website for all AA Studios Project Drives, or stuff
+      i just have yo!
     styles:
       self:
         height: auto

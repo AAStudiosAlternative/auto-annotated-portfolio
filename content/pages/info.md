@@ -127,5 +127,5 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [tura10@aastudios.online](mailto:thisismyemail.@myemail.me)
+      [tura10@aastudios.online](tura10@aastudios.online)
 ---

@@ -45,4 +45,5 @@ sections:
     type: HeroSection
     actions: []
 metaTitle: Tura10
+metaDescription: 'Hi there, im tura10! I just make stuff in my free time for fun!'
 ---

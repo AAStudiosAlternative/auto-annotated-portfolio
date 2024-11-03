@@ -151,7 +151,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [@tura10@aastudios.online](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:

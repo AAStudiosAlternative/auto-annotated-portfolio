@@ -10,7 +10,7 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/aastudioss.gif
+  url: /images/AAPlayoffsbetterlogo (1) (1)_5AzAE8.png
   altText: Project thumbnail image
 media:
   type: ImageBlock

@@ -26,26 +26,45 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
+                "label": "Projects",
+                "altText": "Projects",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             },
             {
                 "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/tura10",
-                "altText": "Netlify templates"
+                "label": "Info",
+                "altText": "Info",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
-        "copyrightText": "[powered by: aastudios.online](https://aastudios.online)\n",
+        "contacts": {
+            "type": "ContactBlock",
+            "title": "Contact details",
+            "phoneNumber": "850-123-5021",
+            "phoneAltText": "Call us",
+            "email": "john@doe.com",
+            "emailAltText": "Email us",
+            "address": "312 Lovely Street, NY",
+            "addressAltText": "Address",
+            "elementId": ""
+        },
+        "copyrightText": "Copyright text",
         "styles": {
             "self": {
                 "width": "narrow",
                 "padding": [
                     "pt-16",
                     "pb-16",
-                    "pr-4",
-                    "pl-4"
+                    "pl-4",
+                    "pr-4"
                 ]
             }
         }

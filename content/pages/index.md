@@ -83,7 +83,7 @@ sections:
     subtitle: ''
     text: >
       I have gotten 2 awards in my high school by being hand selected by my
-      teachers for work!
+      teachers for hard work!
 
 
       Im taking spanish 2, but im not super fluent :(

@@ -89,7 +89,7 @@ sections:
         styles:
           self:
             textAlign: left
-        title: 'English,math yada yada thos classes'
+        title: ''
       - type: FeaturedItem
         actions: []
         styles:

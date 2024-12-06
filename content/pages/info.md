@@ -88,10 +88,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Computer Science 1 TAP
-            url: ' '
+        actions: []
         styles:
           self:
             textAlign: left

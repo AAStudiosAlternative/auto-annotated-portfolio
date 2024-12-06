@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: XAM.ICU
-    subtitle: >-
-      This is an alternative website for all AA Studios Project Drives, or stuff
-      i just have yo!
+    subtitle: 'This is my high school development portfolio! :D'
     styles:
       self:
         height: auto

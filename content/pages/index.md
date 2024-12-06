@@ -109,7 +109,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
-metaTitle: Tura10
+metaTitle: Jack
 metaDescription: 'Hi there, im tura10! I just make stuff in my free time for fun!'
 addTitleSuffix: true
 ---

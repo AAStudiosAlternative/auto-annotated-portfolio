@@ -47,7 +47,7 @@ sections:
     subtitle: 'It may not be a whole lot, but ive only recently started!'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Javascript
         url: ''
       - type: Label
         label: React

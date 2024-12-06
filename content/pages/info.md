@@ -29,10 +29,6 @@ sections:
 
 
 
-    media:
-      type: ImageBlock
-      url: /images/post-2.jpg
-      altText: Hero image
     styles:
       self:
         height: auto

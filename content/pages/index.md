@@ -44,7 +44,7 @@ sections:
     actions: []
   - type: LabelsSection
     title: Currently Learning
-    subtitle: The section subtitle
+    subtitle: 'It may not be a whole lot, but ive only recently started!'
     items:
       - type: Label
         label: 'WEB 1, 2, 3'

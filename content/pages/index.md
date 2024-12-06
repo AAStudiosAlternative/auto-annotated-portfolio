@@ -79,7 +79,7 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-b
-    title: Introduction
+    title: Small About Me
     subtitle: ''
     text: >
       I have gotten 2 awards in my high school by being hand selected by my

@@ -59,9 +59,6 @@ sections:
         label: Python
         url: ''
       - type: Label
-        label: Pancakes
-        url: ''
-      - type: Label
         label: C++
         url: ''
       - type: Label

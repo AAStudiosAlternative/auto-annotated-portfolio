@@ -58,9 +58,6 @@ sections:
       - type: Label
         label: Python
         url: ''
-      - type: Label
-        label: Swift
-        url: ''
     colors: colors-d
     elementId: ''
     styles:

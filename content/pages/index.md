@@ -56,7 +56,7 @@ sections:
         label: Next.js
         url: ''
       - type: Label
-        label: Netlify
+        label: Python
         url: ''
       - type: Label
         label: Pancakes

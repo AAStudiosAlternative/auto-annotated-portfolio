@@ -85,7 +85,7 @@ sections:
         styles:
           self:
             textAlign: left
-        title: ''
+        title: Spanish 2
       - type: FeaturedItem
         actions: []
         styles:

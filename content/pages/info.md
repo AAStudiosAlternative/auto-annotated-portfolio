@@ -77,6 +77,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: Computer Science 1 TAP
       - type: FeaturedItem
         actions: []
         styles:

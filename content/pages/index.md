@@ -110,6 +110,6 @@ sections:
       text:
         textAlign: left
 metaTitle: Jack
-metaDescription: 'Hi there, im tura10! I just make stuff in my free time for fun!'
+metaDescription: Jack's Portfolio
 addTitleSuffix: true
 ---

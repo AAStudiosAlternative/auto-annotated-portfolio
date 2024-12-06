@@ -126,6 +126,7 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |
-      <tura10@aastudios.online>
+    text: >
+      My Personal Email is hidden due to alot of bots spamming my email with
+      these SEO ads ;-;
 ---

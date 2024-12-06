@@ -121,7 +121,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'You can find me here:'
+    subtitle: 'Current Classes:'
   - type: TextSection
     variant: variant-a
     subtitle: 'Contact:'

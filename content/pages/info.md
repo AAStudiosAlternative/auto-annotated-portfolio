@@ -90,7 +90,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Discord
+            label: Computer Science 1 TAP
             url: 'https://discord.gg/yaBpt4PFbT'
         styles:
           self:

@@ -14,8 +14,20 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## Hi, Im tura10! I work on solo or group projects for fun. If you want to
-      contact me, my email is down below!
+      ## Hi!
+
+
+      Im currently a freshman in high school. And i made this site for a class
+      project!
+
+
+      This site is a remix made with a Netlify Template.
+
+
+      I am really interesting in going into cyber security, but for now im
+      taking programming classes!
+
+
 
     media:
       type: ImageBlock

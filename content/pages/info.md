@@ -89,7 +89,7 @@ sections:
         styles:
           self:
             textAlign: left
-        title: Computer Science 1 TAP
+        title: Computer Science 1
       - type: FeaturedItem
         actions: []
         styles:

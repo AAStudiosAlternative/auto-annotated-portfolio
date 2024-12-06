@@ -50,7 +50,7 @@ sections:
         label: Javascript
         url: ''
       - type: Label
-        label: React
+        label: Java
         url: ''
       - type: Label
         label: Microsoft Office

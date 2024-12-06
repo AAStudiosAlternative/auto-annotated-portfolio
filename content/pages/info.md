@@ -91,7 +91,7 @@ sections:
         actions:
           - type: Link
             label: Computer Science 1 TAP
-            url: ''
+            url: ' '
         styles:
           self:
             textAlign: left

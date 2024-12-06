@@ -76,6 +76,34 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+  - type: FeaturedPostsSection
+    actions: []
+    posts:
+      - content/pages/blog/post-five.md
+    colors: colors-f
+    variant: variant-c
+    elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: true
+    showFeaturedImage: false
+    showReadMoreLink: true
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
 metaTitle: Tura10
 metaDescription: 'Hi there, im tura10! I just make stuff in my free time for fun!'
 addTitleSuffix: true

@@ -83,6 +83,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: Choir
       - type: FeaturedItem
         actions: []
         styles:

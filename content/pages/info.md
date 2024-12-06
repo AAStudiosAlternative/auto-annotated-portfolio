@@ -14,13 +14,21 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## Hi, Im tura10! I work on solo or group projects for fun. If you want to
-      contact me, my email is down below!
+      ## Hi!
 
-    media:
-      type: ImageBlock
-      url: /images/post-2.jpg
-      altText: Hero image
+
+      Im currently a freshman in high school. And i made this site for a class
+      project!
+
+
+      This site is a remix made with a Netlify Template.
+
+
+      I am really interesting in going into cyber security, but for now im
+      taking programming classes!
+
+
+
     styles:
       self:
         height: auto
@@ -57,18 +65,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: FeaturedItemsSection
     colors: colors-f
     items:
@@ -77,21 +73,21 @@ sections:
         styles:
           self:
             textAlign: left
+        title: Computer Science 1
       - type: FeaturedItem
         actions: []
         styles:
           self:
             textAlign: left
+        title: Choir
       - type: FeaturedItem
         actions: []
         styles:
           self:
             textAlign: left
+        title: Spanish 2
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.gg/yaBpt4PFbT'
+        actions: []
         styles:
           self:
             textAlign: left
@@ -121,11 +117,12 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'You can find me here:'
+    subtitle: 'Current Special Classes:'
   - type: TextSection
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |
-      <tura10@aastudios.online>
+    text: >
+      My Personal Email is hidden due to alot of bots spamming my email with
+      these SEO ads ;-;
 ---

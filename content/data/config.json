@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/AAstudioslogo1-removebg-preview_nCoFz1 (1).png",
+    "favicon": "/images/static(1).png",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
@@ -10,7 +10,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "About Me!",
                 "url": "/info"
             }
         ],
@@ -18,35 +18,6 @@
         "styles": {
             "self": {
                 "width": "full"
-            }
-        }
-    },
-    "footer": {
-        "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/tura10",
-                "altText": "Netlify templates"
-            }
-        ],
-        "copyrightText": "[aastudios.online](https://aastudios.online)\n",
-        "styles": {
-            "self": {
-                "width": "narrow",
-                "padding": [
-                    "pt-16",
-                    "pb-16",
-                    "pr-4",
-                    "pl-4"
-                ]
             }
         }
     }

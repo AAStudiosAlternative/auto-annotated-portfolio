@@ -81,13 +81,17 @@ sections:
     variant: variant-b
     title: Introduction
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      I have gotten 2 awards in my high school by being hand selected by my
+      teachers for work!
+
+
+      Im taking spanish 2, but im not super fluent :(
+
+
+      I prefer javascript as my favorite language! Im very new to it tho so I
+      can't do that much! but im learning more every day! ( ehh more like every
+      week!)
     elementId: ''
     styles:
       self:
